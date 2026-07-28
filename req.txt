@@ -1,0 +1,10 @@
+Django
+
+celery
+kombu
+amqp
+
+redis
+django-redis
+
+djangorestframework
